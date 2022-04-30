@@ -18,6 +18,16 @@ Gate Pay system offers multiple Scalable payments solutions and a universal sett
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | The world’s most performant web3 ecosystem. Solana Pay is built for immediate transactions, fees that are fractions of a penny, and a net-zero environmental impact. | Make secure payments in digital currencies using Ethereum borderless infrastructure, reducing transfer fees by over 90%. | Gate Pay merchants and their customers will be able to complete cost-effective bitcoin transactions with lower fees. | Bitcoin, Ethereum, Litecoin, Dogecoin, Solana, Polygon and Usdt. |
 
+### Transparent Fees
+
+No monthly fees, no hidden fees
+
+ArabCoin holders will be able to use all Gate Pay payment solitons for free they only pay the network fees.
+
+Non-stakeholders will pay an additional 0.01% + the network fees, making the Gate Pay fee policy the lowest in the payment gateways market.
+
+Gate Pay offers scalable payment solutions built for immediate transactions, fees that are fractions of a penny, and a net-zero environmental impact like Solana pay, Rollups, Bitcoin Lightning Network, and more.
+
 ## **Decentralized payments at scale**
 
 Now your business can harness the power of the blockchain at the same speed as traditional payment networks. No more intermediaries. It’s just you and your customer.
