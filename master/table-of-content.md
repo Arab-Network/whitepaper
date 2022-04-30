@@ -11,6 +11,7 @@
     * [Tokenomics](arab-network-ecosystem/arab-network-blockchain/tokenomics.md)
 * [**Arab Gate**](arab-network-ecosystem/arab-gate/)****
   * [Ecosystem](arab-network-ecosystem/arab-gate/ecosystem/)
+    * [Gate Pay](arab-network-ecosystem/arab-gate/ecosystem/gate-pay.md)
     * [Arab Gate Exchange](arab-network-ecosystem/arab-gate/ecosystem/arab-gate-exchange.md)
     * [Hardware Wallet](arab-network-ecosystem/arab-gate/ecosystem/hardware-wallet.md)
     * [Hala AI Virtual Assistant](arab-network-ecosystem/arab-gate/ecosystem/hala-ai-virtual-assistant.md)
