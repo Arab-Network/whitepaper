@@ -1,8 +1,8 @@
 # Development Roadmap
 
-**Q1 2022**
+**Q2 2022**
 
-### Set up development environment
+### Set up the development environment
 
 * Set up a polygon-edge network locally
 * Manage Private Keys

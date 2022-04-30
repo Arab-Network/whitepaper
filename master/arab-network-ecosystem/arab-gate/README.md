@@ -24,6 +24,10 @@ Your private keys can't leave your device. Using strong wallet encryption and cr
 
 There is no KYC bureaucracy to gain access to your assets, no IP, and transaction tracking.
 
+**Payment Solutions**
+
+Gate Pay offers scalable payment solutions built for immediate transactions, fees that are fractions of a penny, and a net-zero environmental impact like Solana pay, Rollups, Bitcoin Lightning Network, and more.
+
 **Buy assets with your card**
 
 Purchase Assets directly from Arab Gate.
