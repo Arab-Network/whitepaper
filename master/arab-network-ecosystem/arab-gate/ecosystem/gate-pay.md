@@ -12,7 +12,7 @@ Gate Pay is working to lead the blockchain payment technology by transforming ho
 
 Gate Pay system offers multiple Scalable payments solutions and a universal settlement layer for moving token-based digital currencies.
 
-#### Gate Pay Supports :
+#### Supported solutions :
 
 | Solana Pay                                                                                                                                                           | Rollups (Hermez, zkSynk, Optimisme)                                                                                      | Bitcoin Lightning Network                                                                                            | Pay with the most popular crypto currencies                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
