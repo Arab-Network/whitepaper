@@ -20,13 +20,16 @@ One billion ArabCoin will be minted at genesis to operate the blockchain with an
 
 The initial distribution of ArabCoin is as follows:
 
-* 33.6% to Public Sale
+* 0.25% for the Arab Network community
+* 33.35% to Public Sale
 * 12.5% to team members
 * 53.9% locked for the Community reserve fund (the Arab Network community manages the unlock (period & allocation by voting)
 
 
 
-| Phase        | Price (USD) | Token release schedule                                                                                          | Babylon Token airdrop |
-| ------------ | ----------- | --------------------------------------------------------------------------------------------------------------- | --------------------- |
-| Private Sale | 0.035       | 35% of the tokens will be released at TGE (Token generation event), and the rest will be vested 20% each month. | 30%                   |
-| Public Sale  | 0.07        | 50% of the tokens will be released at TGE, and the rest will be vested at 25% each month.                       | 50%                   |
+| Phase       | Price (USD) | Token release schedule                                                                                          | Babylon Token airdrop |
+| ----------- | ----------- | --------------------------------------------------------------------------------------------------------------- | --------------------- |
+| Trench      | 0.035       | 35% of the tokens will be released at TGE (Token generation event), and the rest will be vested 20% each month. | 30%                   |
+| MAS         | 0.05        | 40% of the tokens will be released at TGE (Token generation event), and the rest will be vested 25% each month. |                       |
+| Public Sale | 0.07        | 50% of the tokens will be released at TGE, and the rest will be vested at 25% each month.                       | 50%                   |
+|             |             |                                                                                                                 |                       |
