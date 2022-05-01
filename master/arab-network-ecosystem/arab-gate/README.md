@@ -46,4 +46,6 @@ Bitcoin and other major altcoins and tokens are supported. Coin selection and ad
 
 **NFT**
 
-Full support for ERC721, ERC1155, BEP721, BEP1155 and SLP tokens, store, access, and manage your collectibles with peace of mind and security using Arab Gate’s innovative interface.
+full support for ERC721, ERC1155, BEP721, BEP1155, TRC721, NEAR NFT, and SLP tokens, store, access, and manage your collectibles with peace of mind and security using Arab Gate’s innovative interface.
+
+## ****
