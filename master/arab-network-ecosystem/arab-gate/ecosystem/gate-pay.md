@@ -20,11 +20,11 @@ Gate Pay system offers multiple Scalable payments solutions and a universal sett
 
 ### Transparent Fees
 
-No monthly fees, no hidden fees
+No intermediaries fees, no hidden fees
 
 ArabCoin holders will be able to use all Gate Pay payment solitons for free they only pay the network fees.
 
-Non-stakeholders will pay an additional 0.01% + the network fees, making the Gate Pay fee policy the lowest in the payment gateways market.
+Non-stakeholders will pay an additional 0.1% + the network fees, making the Gate Pay fee policy the lowest in the payment gateways market.
 
 Gate Pay offers scalable payment solutions built for immediate transactions, fees that are fractions of a penny, and a net-zero environmental impact like Solana pay, Rollups, Bitcoin Lightning Network, and more.
 
