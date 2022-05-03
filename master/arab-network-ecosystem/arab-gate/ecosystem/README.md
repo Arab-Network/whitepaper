@@ -1,3 +1,3 @@
 # Ecosystem
 
-![Arab Gate Ecosystem](<../../../../.gitbook/assets/Untitled (11).jpg>)
+![Arab Gate Ecosystem](<../../../../.gitbook/assets/Customer Touchpoint Map (17).jpg>)
