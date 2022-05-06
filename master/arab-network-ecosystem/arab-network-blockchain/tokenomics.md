@@ -22,7 +22,8 @@ The initial distribution of ArabCoin is as follows:
 
 * 33.6% for the Arab Network community and the Public Sale
 * 12.5% to team members
-* 53.9% locked for the Community reserve fund (the Arab Network community manages the unlock (period & allocation by voting)
+* 10% for marketing
+* 43.9% locked for the Community reserve fund (the Arab Network community manages the unlock (period & allocation by voting)
 
 
 
