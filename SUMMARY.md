@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Arab Network Whitepaper](README.md)
+* [Arab Network](README.md)
 * [Table Of Content](<README (1).md>)
 * [Disclaimer](master/disclaimer.md)
 * [Introduction](master/introduction.md)
