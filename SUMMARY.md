@@ -2,6 +2,7 @@
 
 * [Table Of Content](README.md)
 * [Arab Network Whitepaper](<README (1).md>)
+* [Copy of Arab Network Whitepaper](master-1.md)
 * [Disclaimer](master/disclaimer.md)
 * [Introduction](master/introduction.md)
 * [Arab Network Ecosystem](master/arab-network-ecosystem/README.md)
