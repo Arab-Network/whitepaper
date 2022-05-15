@@ -1,8 +1,8 @@
 # Architecture
 
-![Architecture](<../../../.gitbook/assets/Untitled (10).jpg>)
+![](<../../../.gitbook/assets/Customer Touchpoint Map (19).jpg>)
 
-**Introducing The Arab Blockchain**
+## **Introducing The Arab Blockchain**
 
 **Arab Network Blockchain** combines the best of Ethereum and sovereign blockchains to give a full-stack scaling solution for public blockchains. &#x20;
 
@@ -16,25 +16,25 @@ The Arab Network Development team has already developed a user-friendly mobile a
 
 ## **Noorseen Protocol**
 
-**Arab Network Blockchain** uses Polygon Edge as a modular and extensible framework to build a sidechain Ethereum scaling solution by changing the consensus algorithms supported on Polygon Edge to our Permissionless mechanism called "**Noorseen Protocol"** that uses (Pure Proof of Stake) consensus mechanism. With blocks finalized in seconds, Arab Network Blockchain is the first blockchain to enable ultimate security, fast transaction finality, and low transaction fees on Ethereum.
+**Arab Network Blockchain** uses Polygon Edge as a modular and extensible framework to build a sidechain Ethereum scaling solution by using the consensus algorithms supported on Polygon Edge to our Permissionless mechanism called "**Noorseen Protocol"** that uses (PoA) consensus mechanism. With blocks finalized in seconds, Arab Network Blockchain is enabling ultimate security, fast transaction finality, and low transaction fees on Ethereum.
 
-## Decentralization <a href="#decentralization" id="decentralization"></a>
+## Decentralization
 
 **Arab Network Blockchain** technology is completely decentralized, which means that there is no central authority or single point of control. Each block is approved by a special committee of users chosen randomly and in secrecy. Nodes are operated by entities from a variety of different countries.
 
-#### Fair & Transparent <a href="#fair-transparent" id="fair-transparent"></a>
+## Fair, Transparent  & Secure <a href="#secure" id="secure"></a>
 
-Control is distributed among all individual network participants
+Any validator misbehavior is met with instant repercussions on the amount staked
 
-#### Secure <a href="#secure" id="secure"></a>
+Validators stake ArabCoin on the mainnet before validating the network
 
-Fault-tolerant, having no special group that an attacker may target
+Validators verify all the transactions on Arab Network&#x20;
 
 ## Permissionless <a href="#permissionless" id="permissionless"></a>
 
 #### Public & Open to All <a href="#public-open-to-all" id="public-open-to-all"></a>
 
-**Arab Network Blockchain** users do not require the approval of a trusted authority. Each participant has the ability to read every block and to write a transaction in a future block.
+**Arab Network Blockchain** users do not require the approval of a trusted authority. Each participant has the ability to read every block and write a transaction in a future block.
 
 #### Low Cost to Participate <a href="#low-cost-to-participate" id="low-cost-to-participate"></a>
 
@@ -42,13 +42,19 @@ To join the **Arab Network** platform, you only need a little amount of computin
 
 ## **Consensus Mechanism**
 
-### Pure Proof-of-Stake <a href="#pure-proof-of-stake" id="pure-proof-of-stake"></a>
+### Proof of Authority (PoA)
 
-**Arab Network Blockchain** is based on the Polygone Edge architecture and utilizes a decentralized Byzantine agreement protocol that uses a pure proof-of-stake (PPoS) consensus mechanism. As long as the majority of the stake is held by non-malicious users, a system can reach consensus without the intervention of a central authority and tolerate malicious users. Users have a proportional influence on selecting a new block in proportion to their stake in the system (number of ArabCoins). Users are chosen at random and in secret to propose and vote on block proposals. Each online user has the opportunity to be selected to submit and vote.
+**Arab Network Blockchain** is based on the Polygone Edge architecture and utilizes a decentralized Byzantine agreement protocol that uses The IBFT PoA consensus mechanism.&#x20;
 
-### Rewards <a href="#rewards" id="rewards"></a>
+validators are the ones responsible for creating the blocks and adding them to the blockchain in a series.
 
-In the **Arab Network blockchain**, the power is in the hands of the stakeholders. Each user earns rewards proportional to their stake for each block added to the network. This is done to motivate people to join the **Arab Network** platform and accelerate our decentralization process.
+All of the validators make up a dynamic validator-set, where validators can be added to or removed from the set by employing a voting mechanism. This means that validators can be voted in/out from the validators-set if the majority (51%) of the validator nodes vote to add/drop a certain validator to/from the set. In this way, malicious validators can be recognized and removed from the network, while new trusted validators can be added to the network.
+
+All of the validators take turns in proposing the next block (round-robin), and for the block to be validated/inserted in the blockchain, a supermajority (more than 2/3) of the validators must approve the said block.
+
+Besides validators, there are non-validators who do not participate in the block creation but do participate in the block validation process
+
+Users have a proportional influence on selecting a new block in proportion to their stake in the system (number of ArabCoins).&#x20;
 
 ## **ChainBridge**
 

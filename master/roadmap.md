@@ -2,27 +2,27 @@
 
 **Q2.2020**
 
-* Founding the Arab network community.
-* Team build-up.
+* Founding the Arab network community✅
+* Team build-up✅
 
 **Q4.2020**
 
-* Studying the Arab world's need for blockchain technology.
+* Studying the Arab world's need for blockchain technology✅
 
 **Q4.2021**
 
-* Arab Gate App Development (Android & IOS version).
-* ArabCryptoTalk infrastructure setup.
-* Arab Network Academy infrastructure setup.
+* Arab Gate App Development (Android & IOS version)✅
+* ArabCryptoTalk infrastructure setup✅
+* Arab Network Academy infrastructure setup✅
 
 **Q1.P1 2022**
 
-* Websites Development
-* Wallet Testing & Security Audits
-* Whitepaper v1 released
-* Arab wallet App Android & IOS version release
-* NFT deployed
-* Launch Arab coin&#x20;
+* Arab Gate Websites Development✅
+* Wallet Testing & Security Audits✅
+* Whitepaper v1 released✅
+* Arab wallet App Android & IOS version release✅
+* NFT deployed✅
+* Launch Arabcoin ✅
 
 **Q1.P2 2022**
 
@@ -38,7 +38,7 @@
 **Arab blockchain project launch**
 
 * Blockchain node analysis and connection
-* Consensus PPoS & PoS protocol up and running
+* Consensus PoA protocol up and running
 * Explorer front end development
 * Arab NFT platform mainnet launch
 

@@ -14,4 +14,4 @@ Arab Network Blockchain is trying to solve problems with scalability and usabili
 
 ****
 
-Arab Network blockchain “vision” is to provide a side chain scaling solutions for all blockchains. Arab Network aims to provide payment APIs & SDKs, wallets, products, and other solutions for developers to create and migrate DApps built on Ethereum and other base platforms. Arab Network Blockchain's ideology is based on improving user experience. This includes cross-chain transactions, Decentralized exchanges, and liquidity pools.
+Arab Network blockchain's “vision” is to provide a side chain scaling solutions for all blockchains. Arab Network aims to provide payment APIs & SDKs, wallets, products, and other solutions for developers to create and migrate DApps built on Ethereum and other base platforms. Arab Network Blockchain's ideology is based on improving user experience. This includes cross-chain transactions, Decentralized exchanges, and liquidity pools.
