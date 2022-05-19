@@ -10,7 +10,7 @@ Our goal is to become the Arab World's leading source for information about bloc
 
 ### How Arab Network Academy Works?
 
-Built on the ArabCryptoTalk protocol Arab Network Academy uses the same governance architecture to reward experts that publish online courses and students for staking and voting.
+Built on the ArabCryptoTalk protocol Arab Network Academy uses the same governance architecture to reward experts that publish online courses and students for staking and voting. Taking a concept of MasterClass we will invite notable people from the industry to talk about things they are best in. This content will be available in Arabic and English in the beginning.
 
 The governance module will be published to the community for voting and approval.
 
