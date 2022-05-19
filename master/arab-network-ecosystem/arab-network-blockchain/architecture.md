@@ -16,7 +16,7 @@ The Arab Network Development team has already developed a user-friendly mobile a
 
 ## **Noorseen Protocol**
 
-**Arab Network Blockchain** uses Polygon Edge as a modular and extensible framework to build a sidechain Ethereum scaling solution by using the consensus algorithms supported on Polygon Edge to our Permissionless mechanism called "**Noorseen Protocol"** that uses (PoA) consensus mechanism. With blocks finalized in seconds, Arab Network Blockchain is enabling ultimate security, fast transaction finality, and low transaction fees on Ethereum.
+**Arab Network Blockchain** uses Polygon Edge as a modular and extensible framework to build a sidechain Ethereum scaling solution by using the consensus algorithms supported on Polygon Edge to our Permissionless mechanism called "**Noorseen Protocol"** that uses (PoA) & (PoS) consensus mechanism. With blocks finalized in seconds, Arab Network Blockchain is enabling ultimate security, fast transaction finality, and low transaction fees on Ethereum.
 
 ## Decentralization
 
@@ -26,7 +26,7 @@ The Arab Network Development team has already developed a user-friendly mobile a
 
 Any validator misbehavior is met with instant repercussions on the amount staked
 
-Validators stake ArabCoin on the mainnet before validating the network
+Validators stake Arabcoin on the mainnet before validating the network
 
 Validators verify all the transactions on Arab Network&#x20;
 
