@@ -12,7 +12,7 @@ The token module is responsible for token balances, and the send/receive/fee fun
 
 ### Staking Arab coin
 
-Staking Arab Coin is required to propose an article, vote, and propose/vote on network governance actions. ARAB is staked by locking the coins in a vesting period that will be determined by the community vote.
+Staking Arabcoin is required to propose an article, vote, and propose/vote on network governance actions. ARAB is staked by locking the coins in a vesting period that will be determined by the community vote.
 
 ### News module
 
