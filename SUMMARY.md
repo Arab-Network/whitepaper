@@ -12,6 +12,7 @@
       * [Hardware Wallet](master/arab-network-ecosystem/arab-gate/ecosystem/hardware-wallet.md)
       * [Hala AI Virtual Assistant](master/arab-network-ecosystem/arab-gate/ecosystem/hala-ai-virtual-assistant.md)
       * [Competition landscape](arab-network-ecosystem/arab-gate/ecosystem/competition-landscape.md)
+    * [Community Governance](arab-network-ecosystem/arab-gate/community-governance.md)
   * [Arab Network Blockchain](master/arab-network-ecosystem/arab-network-blockchain/README.md)
     * [Architecture](master/arab-network-ecosystem/arab-network-blockchain/architecture.md)
     * [Development Roadmap](master/arab-network-ecosystem/arab-network-blockchain/development-roadmap.md)

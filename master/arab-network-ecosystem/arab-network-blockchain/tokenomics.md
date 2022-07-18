@@ -40,11 +40,9 @@ Non-stakeholders will pay an additional 0.1% + the network fees, making the Gate
 
 The initial distribution of ArabCoin is as follows:
 
-* 33.6% for the Arab Network community and the Public Sale
+* 63.6% for the Arab Network community and the Public Sale
 * 12.5% team & advisors
-* 13.9% for marketing, CEX listings
-* 10% Liquidity
-* 30% locked for the Community reserve fund (the Arab Network community manages the unlock (period & allocation by voting)
+* 23.9% for referral, marketing and CEX listings
 
 
 
